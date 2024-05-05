@@ -1,1 +1,1 @@
-Code is located in src foler.
+Code is located in the src foler.
